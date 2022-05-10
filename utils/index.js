@@ -1,5 +1,4 @@
 import axios from "axios";
-
 export async function subgraphQuery(query) {
   try {
     // Replace YOUR-SUBGRAPH-URL with the url of your subgraph
